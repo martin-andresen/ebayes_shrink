@@ -38,12 +38,12 @@ See the Stata help file for full syntax and options:
 help ebayes_shrink
 ```
 
-Citation
+## Citation
 
-If you use `ebayes_shrink`, please cite:
+If you use `belieffit`, please cite:
 
-Martin Eckhoff Andresen, Manudeep Bhuller, and Alfred Lovgren. *Pay Beliefs and the Amenity-Pay Tradeoff*.
+Martin Eckhoff Andresen, Manudeep Bhuller, and Alfred Løvgren. [*Pay Beliefs and the Amenity-Pay Tradeoff*](https://arxiv.org/pdf/2606.02503).
 
-License
+## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
