@@ -1,0 +1,3 @@
+v 3
+d ebayes_shrink: Stata procedure for Empirical Bayes shrinkage of fixed-effect estimates
+p ebayes_shrink Stata command for Empirical Bayes shrinkage using per-observation variance-covariance estimates
