@@ -187,10 +187,9 @@ estimated {it:tau}. Consider restricting the sample, revisiting normalization, o
 {title:Author}
 
 {pstd}
-Martin Eckhoff Andresen{break}
-Department of Economics{break}
-University of Oslo{break}
-martin.eckhoff.andresen@gmail.com
+Martin Eckhoff Andresen, Department of Economics, University of Oslo.
+Developed for {browse "https://arxiv.org/pdf/2606.02503":Pay Beliefs and the Amenity-Pay Tradeoff}, joint with Manudeep
+Bhuller and Alfred Løvgren. 
 
 
 {title:Also see}
