@@ -1,0 +1,13 @@
+v 3
+d ebayes_shrink: Stata command for Empirical Bayes shrinkage of fixed-effect estimates
+d
+d ebayes_shrink applies Empirical Bayes shrinkage to one or more already-estimated fixed effects.
+d It uses per-observation variance-covariance estimates to estimate the signal covariance matrix
+d and computes posterior mean shrunken effects.
+d
+d Author: Martin Eckhoff Andresen, University of Oslo
+d Repository: https://github.com/martin-andresen/ebayes_shrink
+d Requires: Stata 16.0 or newer
+d
+f ebayes_shrink.ado
+f ebayes_shrink.sthlp
